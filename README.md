@@ -1,8 +1,8 @@
 <div align="center">
   <P>
-       <img src="https://media1.tenor.com/m/5gIHLBU_DDYAAAAd/juju-dean-ween.gif"/>
+       <img src="https://media1.tenor.com/m/dXtmfL8cy4AAAAAC/saw-david.gif"/>
     <p>
-     ponytown's biggest ween fan ^_^
+  
     </p>
 
   </P>
