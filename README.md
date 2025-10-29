@@ -1,6 +1,7 @@
 <div align="center">
   <P>
-       <img src="https://media1.tenor.com/m/dXtmfL8cy4AAAAAC/saw-david.gif"/>
+       <img src="https://64.media.tumblr.com/6c1615f290fadc2293f8c30f14305347/46fc82b38b849076-e1/s400x600/0d086943c314285c0c3b8b8412d9d7b24b70edf4.gifv"/>
     <p>
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iwezyuut51wh3vv1jg2thcsrz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ff0d00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dannybytez&count=1)
